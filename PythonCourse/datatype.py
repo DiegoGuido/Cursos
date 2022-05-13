@@ -4,7 +4,7 @@ print ("""Hello World""")
 print ('Hello World')
 
 # Intreger
-
+b = 30
 print(30)
 
 # Float
@@ -12,19 +12,19 @@ print(30)
 print(30.1)
 
 # Boolean
-True
-False
+x = True
+y = False
 
 # List
-
+list = [10, 20, 30, 55]
 print(type([10, 20, 30, 55]))
 
 # Tuples
-
+tuplas = (10, 20, 30)
 (10, 20, 30)
 
-# Diccionarios
 
+# Diccionarios
 dic = {
  "age" : 3,
  "name" : "Diego",
