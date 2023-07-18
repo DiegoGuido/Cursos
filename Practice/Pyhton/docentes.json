@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "nombre": "Carlos",
+        "apellido_paterno": "González",
+        "apellido_materno": "Sánchez",
+        "fecha_nacimiento": "1982-03-15",
+        "correo_electronico": "carlos.gonzalez@example.com",
+        "division_academica": {
+            "id": 1,
+            "nombre": "Facultad de Ingeniería y Tecnología"
+        },
+        "grados_academicos": [
+            {
+                "titulo": "Licenciatura en Ingeniería en Sistemas Computacionales",
+                "institucion": "Universidad Virtual del Estado de Guanajuato"
+            },
+            {
+                "titulo": "Maestría en Educación con Enfoque en Innovación de la Práctica Docente",
+                "institucion": "Universidad Virtual del Estado de Guanajuato"
+            },
+            {
+                "titulo": "Doctorado en Educación",
+                "institucion": "Universidad de Guadalajara"
+            }
+        ],
+        "tipo_plaza_docente": "Profesor Titular A Tiempo Completo"
+    },
+    {
+        "id": 2,
+        "nombre": "María",
+        "apellido_paterno": "Hernández",
+        "apellido_materno": "López",
+        "fecha_nacimiento": "1975-11-20",
+        "correo_electronico": "maria.hernandez@example.com",
+        "division_academica": {
+            "id": 2,
+            "nombre": "Facultad de Ciencias de la Computación"
+        },
+        "grados_academicos": [
+            {
+                "titulo": "Licenciatura en Ciencias de la Computación",
+                "institucion": "Universidad Nacional Autónoma de México"
+            },
+            {
+                "titulo": "Maestría en Tecnologías de la Información",
+                "institucion": "Universidad Interamericana para el Desarrollo"
+            },
+            {
+                "titulo": "Doctorado en Ingeniería de Software",
+                "institucion": "Universidad de Guadalajara"
+            }
+        ],
+        "tipo_plaza_docente": "Profesor Titular B Tiempo Completo"
+    },
+    {
+        "id": 3,
+        "nombre": "José",
+        "apellido_paterno": "García",
+        "apellido_materno": "Martínez",
+        "fecha_nacimiento": "1988-06-05",
+        "correo_electronico": "jose.garcia@example.com",
+        "division_academica": {
+            "id": 1,
+            "nombre": "Facultad de Ingeniería y Tecnología"
+        },
+        "grados_academicos": [
+            {
+                "titulo": "Licenciatura en Ingeniería en Informática",
+                "institucion": "Universidad Politécnica del Estado de Morelos"
+            },
+            {
+                "titulo": "Maestría en Ciencias de la Computación",
+                "institucion": "Universidad Nacional Autónoma de México"
+            },
+            {
+                "titulo": "Doctorado en Redes de Computadoras",
+                "institucion": "Instituto Politécnico Nacional"
+            }
+        ],
+        "tipo_plaza_docente": "Profesor Asociado A 12 Tiempo"
+    },
+    {
+        "id": 4,
+        "nombre": "Laura",
+        "apellido_paterno": "Díaz",
+        "apellido_materno": "Gómez",
+        "fecha_nacimiento": "1983-02-10",
+        "correo_electronico": "laura.diaz@example.com",
+        "division_academica": {
+            "id": 2,
+            "nombre": "Facultad de Ciencias de la Computación"
+        },
+        "grados_academicos": [
+            {
+                "titulo": "Licenciatura en Ingeniería en Software",
+                "institucion": "Universidad Digital del Estado de Hidalgo"
+            },
+            {
+                "titulo": "Maestría en Sistemas Computacionales",
+                "institucion": "Universidad Da Vinci"
+            },
+            {
+                "titulo": "Doctorado en Ingeniería de Software",
+                "institucion": "Universidad Nacional Autónoma de México"
+            }
+        ],
+        "tipo_plaza_docente": "Profesor Asociado B Tiempo Completo"
+    },
+    {
+        "id": 5,
+        "nombre": "Fernando",
+        "apellido_paterno": "Ruíz",
+        "apellido_materno": "Santos",
+        "fecha_nacimiento": "1979-09-25",
+        "correo_electronico": "fernando.ruiz@example.com",
+        "division_academica": {
+            "id": 1,
+            "nombre": "Facultad de Ingeniería y Tecnología"
+        },
+        "grados_academicos": [
+            {
+                "titulo": "Licenciatura en Ingeniería en Tecnologías de la Información",
+                "institucion": "Universidad Tecnológica Emiliano Zapata del Estado de Morelos"
+            },
+            {
+                "titulo": "Maestría en Tecnologías de la Información",
+                "institucion": "Universidad Politécnica del Estado de Morelos"
+            },
+            {
+                "titulo": "Doctorado en Inteligencia Artificial",
+                "institucion": "Universidad de Guadalajara"
+            }
+        ],
+        "tipo_plaza_docente": "Profesor Titular C 12 Tiempo"
+    },
+    {
+        "id": 6,
+        "nombre": "Ana",
+        "apellido_paterno": "Gómez",
+        "apellido_materno": "Flores",
+        "fecha_nacimiento": "1981-12-07",
+        "correo_electronico": "ana.gomez@example.com",
+        "division_academica": {
+            "id": 2,
+            "nombre": "Facultad de Ciencias de la Computación"
+        },
+        "grados_academicos": [
+            {
+                "titulo": "Licenciatura en Enseñanza y Aprendizaje de las Matemáticas en Educación Secundaria",
+                "institucion": "Escuela Normal Superior de México"
+            },
+            {
+                "titulo": "Especialidad en Enseñanza de las Matemáticas",
+                "institucion": "Universidad Virtual del Estado de Michoacán"
+            },
+            {
+                "titulo": "Maestría en Ciencias en Matemática Educativa",
+                "institucion": "Instituto Politécnico Nacional"
+            },
+            {
+                "titulo": "Doctorado en Ciencias en Matemática Educativa",
+                "institucion": "Instituto Politécnico Nacional"
+            }
+        ],
+        "tipo_plaza_docente": "Profesor Asociado C 34 Tiempo"
+    },
+    {
+        "id": 7,
+        "nombre": "Javier",
+        "apellido_paterno": "López",
+        "apellido_materno": "García",
+        "fecha_nacimiento": "1977-08-18",
+        "correo_electronico": "javier.lopez@example.com",
+        "division_academica": {
+            "id": 1,
+            "nombre": "Facultad de Ingeniería y Tecnología"
+        },
+        "grados_academicos": [
+            {
+                "titulo": "Licenciatura en Ingeniería en Telemática",
+                "institucion": "Universidad Abierta y a Distancia de México"
+            },
+            {
+                "titulo": "Maestría en Ciencias de la Computación",
+                "institucion": "Instituto Politécnico Nacional"
+            },
+            {
+                "titulo": "Doctorado en Informática",
+                "institucion": "Universidad de Guadalajara"
+            }
+        ],
+        "tipo_plaza_docente": "Profesor de Asignatura B"
+    },
+    {
+        "id": 8,
+        "nombre": "Carmen",
+        "apellido_paterno": "Torres",
+        "apellido_materno": "González",
+        "fecha_nacimiento": "1976-04-22",
+        "correo_electronico": "carmen.torres@example.com",
+        "division_academica": {
+            "id": 2,
+            "nombre": "Facultad de Ciencias de la Computación"
+        },
+        "grados_academicos": [
+            {
+                "titulo": "Licenciatura en Ciencias de la Computación",
+                "institucion": "Universidad Nacional Autónoma de México"
+            },
+            {
+                "titulo": "Maestría en Tecnologías de la Información",
+                "institucion": "Instituto Tecnológico y de Estudios Superiores de Monterrey"
+            },
+            {
+                "titulo": "Doctorado en Ingeniería de Software",
+                "institucion": "Universidad de Guadalajara"
+            }
+        ],
+        "tipo_plaza_docente": "Profesor de Asignatura A"
+    }
+]
